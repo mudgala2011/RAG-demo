@@ -1,2 +1,9 @@
 ipykernel
 python-dotenv
+docling 
+lancedb
+pydantic
+openai
+streamlit
+tiktoken
+
