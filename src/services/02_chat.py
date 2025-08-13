@@ -98,7 +98,7 @@ def get_chat_response(messages, context: str) -> str:
 
 
 # Initialize Streamlit app
-st.title("📚 Human Resource Policy Q&A")
+st.title(":material/policy: Human Resource Policy Q&A")
 
 # Initialize session state for chat history
 if "messages" not in st.session_state:
